@@ -30,7 +30,6 @@ Portafolio personal en donde resumo quien soy, muestro los proyectos que conside
  - Modo claro/oscuro en donde la primera vez que ingrese detecta su preferencia del sistema para personalizar la web.
  -  Paleta de colores en donde tiene 4 opciones para personalizar los colores de la página web. 
  - Opción de alto contraste que al activarla se aplica un filtro con css de contraste a 1.75.
- <img src="https://i.ibb.co/G0gSRqS/paleta.png"/>
  
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marcosrubi&repo=mrubi&show_owner=true)](https://github.com/marcosrubi/mrubi)
  
