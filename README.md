@@ -1,7 +1,7 @@
 # Hola mundo! :earth_americas:
 
 Mi nombre es **Marcos Rubí**, soy un apasionado por el desarrollo web.
- Desde el 2017 que comencé a estudiar el técnico en sistemas y redes me he dedicado a profundizar en el área web realizando cursos en línea y proyectos personales para poner a prueba mis habilidades, además de continuar en la universidad en la que actualmente estoy cursando mi último año en ingeniería de sistemas y redes.
+ Desde el 2017 que comencé a estudiar el técnico en sistemas y redes me he dedicado a profundizar en el área web realizando cursos en línea y proyectos personales para poner a prueba mis habilidades, además de continuar en la universidad en la que actualmente estoy como egresado de ingeniería de sistemas y redes.
 
 # Proyectos destacados
 
